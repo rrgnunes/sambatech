@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/17 18:01:58.257,=C:\Users\UDS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 18:03:53.688,C:\Users\UDS\Documents\fontes\ProvaSambaTech\frmMain.pas=C:\Users\UDS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 18:03:53.688,C:\Users\UDS\Documents\fontes\ProvaSambaTech\frmMain.dfm=C:\Users\UDS\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/17 18:04:06.437,C:\Users\UDS\Documents\fontes\ProvaSambaTech\ProjectSambaTech.dproj=C:\Users\UDS\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/17 19:47:08.955,=C:\Users\UDS\Documents\fontes\ProvaSambaTech\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 19:48:09.159,C:\Users\UDS\Documents\fontes\ProvaSambaTech\dmDados.pas=C:\Users\UDS\Documents\fontes\ProvaSambaTech\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 19:48:09.159,C:\Users\UDS\Documents\fontes\ProvaSambaTech\dmDados.dfm=C:\Users\UDS\Documents\fontes\ProvaSambaTech\Unit1.dfm</Transaction>
+    <Transaction>2022/05/17 20:54:49.201,=C:\Users\UDS\Documents\fontes\ProvaSambaTech\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 20:55:04.389,C:\Users\UDS\Documents\fontes\ProvaSambaTech\frmHistorico.pas=C:\Users\UDS\Documents\fontes\ProvaSambaTech\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 20:55:04.390,C:\Users\UDS\Documents\fontes\ProvaSambaTech\frmHistorico.dfm=C:\Users\UDS\Documents\fontes\ProvaSambaTech\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
